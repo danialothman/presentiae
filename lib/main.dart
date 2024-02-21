@@ -141,7 +141,7 @@ class _PresentiaState extends State<Presentia> {
             ),
           ),
         ),
-        Ball()
+        const Ball()
       ]),
       floatingActionButton: FloatingActionButton(
         foregroundColor: Colors.grey[700],

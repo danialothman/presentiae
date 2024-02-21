@@ -2,6 +2,8 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 
 class Ball extends StatefulWidget {
+  const Ball({super.key});
+
   @override
   _BallState createState() => _BallState();
 }
